@@ -1,4 +1,4 @@
-package com.examlounge.examloungeapp.utils
+package com.tanishq.autosmsapp.utils
 
 import android.annotation.TargetApi
 import android.content.Context
